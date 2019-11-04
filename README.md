@@ -1,8 +1,7 @@
 # PAW_UTS_PROJECT
 FINAL PROJECT PENGEMBANGAN APLIKASI WEB PHP, HTML, CSS, JAVASCRIPT, BULMA, BOOTSTRAP
 
-Tujuan Projek
-Projek kelompok ini bertujuan untuk melihat kemampuan mahasiswa dalam membangun sebuah
+Tujuan Projek kelompok ini bertujuan untuk melihat kemampuan mahasiswa dalam membangun sebuah
 aplikasi Web. Aplikasi Web yang dibangun bertujuan untuk menyelesaikan sebuah permasalahan
 yang ada di sekitar Anda.
 Deskripsi Projek
